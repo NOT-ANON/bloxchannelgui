@@ -1,1 +1,1 @@
-loadstring("https://github.com/NOT-ANON/test/blob/main/WhiteList.lua")()
+t = {64348602, 177487260, 1033584284, 488732881, 121824943, 1824279155, 2942330362}
