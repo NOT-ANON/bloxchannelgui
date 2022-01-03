@@ -1,0 +1,26 @@
+{
+  "content": null,
+  "embeds": [
+    {
+      "title": "**Execution Logs**",
+      "description": "**Key:** NoKey",
+      "color": 12802303,
+      "fields": [
+        {
+          "name": "Game",
+          "value": "https://www.roblox.com/games/334907712/WINTER-V2-Midtown-Tower-Midtown-RP"
+        },
+        {
+          "name": "User",
+          "value": "https://www.roblox.com/users/177487260/profile"
+        }
+      ],
+      "footer": {
+        "text": "[hacvkr]"
+      },
+      "thumbnail": {
+        "url": "https://cdn.discordapp.com/attachments/923743179709227068/927023679781609563/tommy_is_daddy.png"
+      }
+    }
+  ]
+}
