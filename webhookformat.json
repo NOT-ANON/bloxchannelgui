@@ -3,16 +3,16 @@
   "embeds": [
     {
       "title": "**Execution Logs**",
-      "description": "**Key:** NoKey",
+      "description": "**Key:** KeyHolder",
       "color": 12802303,
       "fields": [
         {
           "name": "Game",
-          "value": "https://www.roblox.com/games/334907712/WINTER-V2-Midtown-Tower-Midtown-RP"
+          "value": "GameHolder"
         },
         {
           "name": "User",
-          "value": "https://www.roblox.com/users/177487260/profile"
+          "value": "UserHolder"
         }
       ],
       "footer": {
