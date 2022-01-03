@@ -3,15 +3,18 @@
   "embeds": [
     {
       "title": "**Execution Logs**",
-      "description": "**Key:** KeyHolder",
       "color": 12802303,
       "fields": [
         {
-          "name": "Game",
+          "name": "**Key**",
+          "value": "KeyHolder"
+        },
+        {
+          "name": "**Game**",
           "value": "GameHolder"
         },
         {
-          "name": "User",
+          "name": "**User**",
           "value": "UserHolder"
         }
       ],
